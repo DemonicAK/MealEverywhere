@@ -60,7 +60,7 @@
     flex-direction: column;
     align-items: center;
     padding: 50px;
-    background: url('Images/Image1.jpg') no-repeat center center/cover;
+    background: url('assets/Image1.jpg') no-repeat center center/cover;
     color: #fff;
     font-family: 'Libre Baskerville', 'Lora', 'Poppins', 'Sono', serif;
   }
@@ -118,7 +118,7 @@
   /* Clients Section */
   #client-section {
     position: relative;
-    background: url('Images/Image2.jpg') no-repeat center center/cover;
+    background: url('assets/Image2.jpg') no-repeat center center/cover;
     padding: 50px;
     color: #fff;
   }
@@ -140,7 +140,7 @@
   /* Contact Section */
   #contact {
     position: relative;
-    background: url('Images/contact-us.jpg') no-repeat center center/cover;
+    background: url('assets/contact-us.jpg') no-repeat center center/cover;
     padding: 50px;
     color: #fff;
   }
